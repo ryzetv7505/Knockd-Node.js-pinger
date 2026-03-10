@@ -28,7 +28,11 @@
 
 ## Installazione
 
-usa direttamente il file singolo:
+usa git:
+git clone https://github.com/ryzetv7505/Knockd-Node.js-pinger.git
+cd Knockd
+
+oppure usa direttamente il file singolo:
 
 ```bash
 node pinger.js --help
