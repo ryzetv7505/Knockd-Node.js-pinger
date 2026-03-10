@@ -28,15 +28,7 @@
 
 ## Installazione
 
-```bash
-# Clona o scarica il file
-git clone https://github.com/tuo-utente/knockd.git
-cd knockd
-
-# Nessun npm install necessario — zero dipendenze
-```
-
-Oppure usa direttamente il file singolo:
+usa direttamente il file singolo:
 
 ```bash
 node pinger.js --help
