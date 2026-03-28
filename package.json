@@ -2,12 +2,12 @@
   "name": "Knockd",
   "version": "beta 1.5.2",
   "description": "Zero dependencies. Pure Node.js",
-  "main": "Latchk.js",
+  "main": "pinger.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "ryzetv7505",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs"
 }
